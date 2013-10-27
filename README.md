@@ -1,5 +1,6 @@
 ## Colorscheme
-Taken from (here)[http://www.colourlovers.com/palette/2536075/designer_graph_paper]
+Taken from [here](http://www.colourlovers.com/palette/2536075/designer_graph_paper)
+
 Color | Hex Value
 --- | ---
 white | #FFFFFF
