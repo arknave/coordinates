@@ -1,5 +1,4 @@
-function Vector(ray, fill) {
-    this.ray = ray || [1, 1];
-    this.fill = fill || '#000000';
+function Vector(x, y) {
+    this.x = x || 1;
+    this.y = y || 2;
 }
-

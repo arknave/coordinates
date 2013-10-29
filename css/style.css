@@ -1,3 +1,5 @@
-canvas {
-    border: 1px solid #313131;
+html, body {
+    margin: 0;
+    padding: 0;
+
 }
